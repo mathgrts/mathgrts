@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mathgrts
+- 👋 Hi, I’m Maulana
 - 👀 I’m interested in IoT projects and other tech projects
 - 🌱 I’m currently learning Electronics, Hardware engineering and AI (just started)
 - 💞️ I’m looking to collaborate on ... (I prefer work alone right now)
